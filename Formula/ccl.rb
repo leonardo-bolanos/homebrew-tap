@@ -8,8 +8,8 @@ class Ccl < Formula
   license "MIT"
   head "https://github.com/leonardo-bolanos/claude-session-switcher.git", branch: "master"
 
-  depends_on "python@3.13"
   depends_on :macos
+  depends_on "python@3.13"
 
   def install
     bin.install "ccl"
