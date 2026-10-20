@@ -3,8 +3,8 @@ class Ccl < Formula
 
   desc "Lists every Claude Code session and jumps to the iTerm2 window running it"
   homepage "https://github.com/leonardo-bolanos/claude-session-switcher"
-  url "https://github.com/leonardo-bolanos/claude-session-switcher/archive/refs/tags/v1.3.0.tar.gz"
-  sha256 "5c8da0c514a6e761bd48801bc80b230232515f792cd940031e6a37cfed52e40e"
+  url "https://github.com/leonardo-bolanos/claude-session-switcher/archive/refs/tags/v1.3.1.tar.gz"
+  sha256 "3cf9d06848a3d9f0b6b1a842199f0fe134e9c60ab0aa45a0a5e000f8495f7702"
   license "MIT"
   head "https://github.com/leonardo-bolanos/claude-session-switcher.git", branch: "master"
 
